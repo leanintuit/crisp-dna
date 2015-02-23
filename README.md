@@ -2,7 +2,11 @@
 ---
 # Crisp DNA - tech setup for the site
 
-Crisp DNA is a web site that describes how Crisp works and why. The source lives on github and is auto-published on [http://dna.crisp.se](http://dna.crisp.se) every time a change is pushed.
+Leanintuit DNA is a web site that describes how Leanintuit works and why. The source lives on github and is auto-published on 
+
+[http://leanintuit.github.io/leanintuit-dna/docs/(http://leanintuit.github.io/leanintuit-dna/docs/) every time a change is pushed.
+
+It is forked from the Crisp DNA located at[http://dna.crisp.se](http://dna.crisp.se).
 
 Below are instructions for how to set up a local development environment. Useful for when you want to make many changes and test locally before pushing to github. See [How to clone](http://dna.crisp.se/docs/how-to-copy.html) for more options on how to clone the Crisp model.
 
