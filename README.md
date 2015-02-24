@@ -49,11 +49,15 @@ Congrats! You got the stuff you need. You should now be ready to....
 Tell Jekyll to generate the site and serve it up:
 
     jekyll serve
+or:
+    bundle exec jekyll serve
 
 Or if you are lazy you can use the run script (which just does jekyll serve)
 
+This site is set to run at the path /leanintuit-dna (change in _config.yml)
+
 That's it, your local copy of the Crisp DNA site should be up and running on
-[http://localhost:4000](http://localhost:4000)
+[http://localhost:4000/leanintuit-dna](http://localhost:4000/leanintuit-dna)
 
 Every time you edit a source doc (under _docs) it will update the site automatically.
 
