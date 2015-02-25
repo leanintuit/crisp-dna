@@ -4,36 +4,25 @@ next_section: what-is-crisp.html
 ---
 h1. What is this?
 
-This site is an "open-source":http://en.wikipedia.org/wiki/Open_source site describing how Crisp works and why. 
+This site is an "open-source":http://en.wikipedia.org/wiki/Open_source site describing how Leanintuit works and why.
 
-"Crisp":https://www.crisp.se is a consulting company based in Stockholm, Sweden. But we aren't a very typical consulting company. For example:
+"Leanintuit":http://www.leanintuit.com is a consulting company based in Toronto, Ontario.
 
-* None of the 30+ consultants are actually employed by {{ site.company_name }} (although we do have a few employed office staff).
-* We have no managers, not even a CEO. Instead we rely on self-organization and transparency. Almost everything is bottom-up, and "anyone can drive any decision":decisions.html.
-* Crisp's main purpose is to enable consultants to be happy, and "Crisp Happiness Index":happiness-index.html is our driving metric. Strong revenue and delighted customers are a side effect, not a goal.
-* Crisp doesn't want to earn money from it's consultants. It is in practice a non-profit company (although not formally so). Consultants "keep most of what they earn":economic-model.html.
-* Our "ownership model":ownership-model.html is designed to keep our stock financially worthless. There is no incentive to "cash in".
-* Consultants are 100% autonomous. They can do whatever they want (as long as they don't hurt the brand or "our house":what-is-crisp.html), and work as much or as little as they want.
+By working together, and continuously experimenting with the way the company works, we figured out what works for us.
 
-We get a lot of questions about how this works in practice, especially from other consultants looking to create something similar. After many years of experimenting we've converged on a model that works well, basically the sweet spot between being an independent consultant and being an employee. So we decided to "open source":http://en.wikipedia.org/wiki/Open_source it.
+At some point Leanintuit grew to the point that we felt we needed to write down the way we worked. Right around that time we found out that "Crisp":https://www.crisp.se had open-sourced their company's "DNA" and it was an great match for the way we were working.
+We decided to fork their "Github":https://github.com/crispab/crisp-dna project and use it as the base for our own DNA.
 
 Want to start a similar org? See "How to clone the Crisp DNA":how-to-copy.html.
-
-h2. Why open-source the Crisp DNA?
-
-* To make the world a better place! The model has helped us be happy and make a positive impact in the world, and publishing it may help others do the same.
-* Open-sourcing it is a fun social experiment, we're curious about what's going to happen :o)
-* By making our model public, we're more likely to keep it up-to-date and improve it as we learn.
-* Putting it on GitHub makes it easier for others to clone and evolve the model, and we can learn from that.
 
 h1. Contents
 
 h2. Driving principles
 
-(these principles drive almost everything at Crisp)
+(these principles drive almost everything at Leanintuit)
 
-* "What is Crisp":what-is-crisp.html - the purpose of the company
-* "How Crisp works":how-crisp-works.html - summary of our model, and some driving principles.
+* "What is Leanintuit":what-is-leanintuit.html - the purpose of the company
+* "How Leanintuit works":how-leanintuit-works.html - summary of our model, and some driving principles.
 * "Why this works":why-this-works.html - why this model has served us so well
 
 h2. Core structure and practices
@@ -49,11 +38,11 @@ h2. Core structure and practices
 * "Bun protocol":bun-protocol.html - how do we handle customer enquiries and route to the right consultant?
 * "Dashboard":dashboard.html - how do we see the big picture?
 * "Office team":office-team.html - how do we handle admin and day-to-day operations?
-* "Board of directors":board.html - Swedish law requires that we have a BoD. So how does the BoD at Crisp work?
+* "Board of directors":board.html -  So how does the BoD at Leanintuit work?
 * "Our business":our-business.html - what type of work we do
 * "Visions":visions.html - How to you get a bunch of autonomous consultants to agree on a vision? Answer: have several :o)
 * "Sales":sales.html - how do we actually sell consultants?
-* "Crisp unconference":unconference.html - how our bi-annual unconference works
+* "Leanintuit unconference":unconference.html - how our bi-annual unconference works
 
 h2. Supporting practices
 
