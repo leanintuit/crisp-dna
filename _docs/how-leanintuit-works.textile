@@ -10,7 +10,7 @@ Our second A3 is called "Crisp strategy" but it's really more about how we opera
 
 !../assets/CrispStrategyA3-sv.jpg(Crisp Strategy A3)!
 
-It hangs on the wall next to the "What is Crisp":what-is-crisp.html A3. Here's an "english translation":../assets/CrispStrategyA3-en.pdf of the pic. Summarized below:
+It hangs on the wall next to the "What is Leanintuit":what-is-leanintuit.html A3. Here's an "english translation":../assets/CrispStrategyA3-en.pdf of the pic. Summarized below:
 
 h2. What do we measure?
 
