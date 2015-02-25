@@ -1,10 +1,10 @@
 ---
-title: How Crisp works
+title: How Leanintuit works
 prev_section: what-is-crisp.html
 next_section: why-this-works.html
 ---
 
-h1. How Crisp works
+h1. How Leanintuit works
 
 Our second A3 is called "Crisp strategy" but it's really more about how we operate:
 
