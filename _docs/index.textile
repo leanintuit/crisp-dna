@@ -1,14 +1,14 @@
 ---
-title: Crisp DNA
-next_section: what-is-crisp.html
+title: Leanintuit DNA
+next_section: what-is-leanintuit.html
 ---
 h1. What is this?
 
-This site is an "open-source":http://en.wikipedia.org/wiki/Open_source site describing how Crisp works and why. 
+This site is an "open-source":http://en.wikipedia.org/wiki/Open_source site describing how *Leanintuit* works and why. 
 
-"Crisp":https://www.crisp.se is a consulting company based in Stockholm, Sweden. But we aren't a very typical consulting company. For example:
+"Leanintuit":http://www.leanintuit.com is a consulting company based in Ontario, Canada. But we aren't a very typical consulting company. For example:
 
-* None of the 30+ consultants are actually employed by {{ site.company_name }} (although we do have a few employed office staff).
+* None of the 6+ consultants are actually employed by {{ site.company_name }} (although we do have a few employed office staff).
 * We have no managers, not even a CEO. Instead we rely on self-organization and transparency. Almost everything is bottom-up, and "anyone can drive any decision":decisions.html.
 * Crisp's main purpose is to enable consultants to be happy, and "Crisp Happiness Index":happiness-index.html is our driving metric. Strong revenue and delighted customers are a side effect, not a goal.
 * Crisp doesn't want to earn money from it's consultants. It is in practice a non-profit company (although not formally so). Consultants "keep most of what they earn":economic-model.html.
