@@ -1,5 +1,5 @@
 ---
-title: Crisp DNA
+title: Leanintuit DNA
 next_section: what-is-crisp.html
 ---
 h1. What is this?
