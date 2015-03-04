@@ -74,7 +74,7 @@ As a result, our discussions always end up with people divided into two camps:
 * *Yes*: "An insurance will increase my freedom and security, because Crisp will help me if I run into temporary cash flow problems."
 * *No*: "An insurance will decrease my freedom and security, because of the increased fees. I manage risk fine today by saving cash and minimizing unnecessary expenses."
 
-This is where our "explicitly stated core values":what-is-crisp.html come into use. Freedom is a core value, financial stability isn't. That doesn't mean financial stability isn't important, it just means that people came to Crisp primarily for freedom, and that includes the freedom to choose your own risk-management approach.
+This is where our "explicitly stated core values":what-is-leanintuit.html come into use. Freedom is a core value, financial stability isn't. That doesn't mean financial stability isn't important, it just means that people came to Crisp primarily for freedom, and that includes the freedom to choose your own risk-management approach.
 
 This reasoning always leads us to the same conclusion:
 * *Compromise*: "Some people want a shared insurance, some don't. Therefore we won't force it upon everyone. Instead, those individuals who want an insurance (and are willing to pay for it) can get together and form one together. That way, insurance is opt-in."

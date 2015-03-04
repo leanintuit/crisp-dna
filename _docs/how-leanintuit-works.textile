@@ -1,6 +1,6 @@
 ---
 title: How Leanintuit works
-prev_section: what-is-crisp.html
+prev_section: what-is-leanintuit.html
 next_section: why-this-works.html
 ---
 
